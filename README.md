@@ -1,5 +1,4 @@
 ## Hi there 👋
-# The README Checklist:
 
 - 👋 who are you?  
 Hi, I’m **William Watopa**, a fresh graduate with a Bachelor of Science in Information Technology. I graduated with **Magna Cum Laude** honors and have a passion for building useful and creative tech solutions.
