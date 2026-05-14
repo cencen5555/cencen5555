@@ -1,16 +1,15 @@
 ## Hi there 👋
+# The README Checklist:
 
-<!--
-**cencen5555/cencen5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 who are you?  
+Hi, I’m **William Watopa**, a fresh graduate with a Bachelor of Science in Information Technology. I graduated with **Magna Cum Laude** honors and have a passion for building useful and creative tech solutions.
 
-Here are some ideas to get you started:
+- 💻 what are you currently working on?  
+Currently improving my skills in **web development**, **database systems**, and creating projects that solve real-world problems. Also looking for opportunities as a **Junior Web Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ what tools do you use?  
+HTML | CSS | JavaScript | PHP | MySQL | MariaDB | GitHub | Python | Power Apps | SharePoint
+
+- 📩 how to reach you?  
+Email: watopawilliam@email.com  
+GitHub: github.com/cencen5555  
